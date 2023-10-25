@@ -24,5 +24,4 @@ While testing the script using given test.smi, it will generate below output.
 ###  pIC50 value for the molecule is  4.916917019483667
 ###  IC50 value for the molecule is  12108.294642720226 nM
 
-###The image contained in package displays the scatter plot of the XPO1 Decision Tree model built using RDKIT descriptor data.
 ###Decision Tree model has R-squared value of 0.8184270843497391 after Hyperparameter Tuning. 
