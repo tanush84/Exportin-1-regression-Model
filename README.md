@@ -1,0 +1,2 @@
+# Exportin-1-regression-Model
+REGRESSION BASED PREDICTION OF IC50 values OF MOLECULES for the EXPORTIN-1 PROTEIN. 
